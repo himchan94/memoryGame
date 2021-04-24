@@ -1,2 +1,2 @@
 # memory-Game
-Simple Game made with HTML, CSS JS
+Simple Game made with HTML, CSS, JS
